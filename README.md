@@ -2,7 +2,7 @@
 Saurabh</a>-->Aakash</h1>
 <h3 align="center">A passionate Software Engineer from Ahmedabad, India &#127470;&#127475</h3>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Radixweb</a>
+- 🔭 I’m currently working in <a href="https://radixweb.com/" target="blank">Radixweb</a>
 
 - 🌱 I’m currently working on Backend (Python & NodeJS)
 
