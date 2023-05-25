@@ -8,8 +8,8 @@ Saurabh</a>-->Aakash</h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Docker, Kubernetes and Kafka
+- 🌱 I’m currently learning Snowflake and DBT
 
-- 💬 Ask me about **Flutter, Android, Docker, Little bit about Kubernetes**
+- 💬 Ask me about **Flutter, Android, Docker, Little bit about Kubernetes and Kafka**
 
 - 📫 How to reach me **skyflutter.19@gmail.com**
