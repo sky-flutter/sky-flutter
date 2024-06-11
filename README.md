@@ -10,6 +10,6 @@ Saurabh</a>-->Aakash</h1>
 
 - 🌱 I’m currently learning Snowflake and DBT
 
-- 💬 Ask me about **Flutter, Android, Docker, Little bit about Kubernetes and Kafka**
+- 💬 Ask me about **Flutter, Android, Docker, and Terraform. A Little bit about Kubernetes and Kafka**
 
 - 📫 How to reach me **skyflutter.19@gmail.com**
